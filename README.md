@@ -18,7 +18,7 @@
 
 ## Lab Overview
 
-Building on the previous [Active Directory Deployment and Configuration](https://github.com/vincentchachere/Active-Directory-Deployment-and-Configuration) lab, this lab focuses on learning key Active Directory skills like managing account lockouts, password resets, enabling/disabling accounts, and analyzing event logs. We’ll also configure group policy to enforce security settings, such as account lockout thresholds, and test these configurations in a realistic environment.
+Building on the previous [Active Directory Deployment and Configuration](https://github.com/DavidClarkeIT/Active-Directory-Deployment-and-Configuration) lab, this lab focuses on learning key Active Directory skills like managing account lockouts, password resets, enabling/disabling accounts, and analyzing event logs. We’ll also configure group policy to enforce security settings, such as account lockout thresholds, and test these configurations in a realistic environment.
 
 ## Environments and Technologies Used
 
@@ -241,7 +241,7 @@ Now, you are inside **Group Policy Management Editor** where you can edit group 
 
 - Disconnect: from `Client-1 from Remote Desktop (RDP)` if you haven't already
 
-- Pick a random user account you previously created, [in this lab](https://github.com/vincentchachere/Active-Directory-Deployment-and-Configuration), and attempt 6+ failed logons.
+- Pick a random user account you previously created, [in this lab](https://github.com/DavidClarkeIT/Active-Directory-Deployment-and-Configuration), and attempt 6+ failed logons.
 
 *Later, we will review these actions in the Event Logs for verification and analysis.*
 
@@ -537,8 +537,8 @@ Now, you are inside **Group Policy Management Editor** where you can edit group 
 
 In this lab, we enhanced our Active Directory management skills, including handling account lockouts, password resets, and event log analysis. By configuring group policy and testing these settings in a realistic environment, we gained practical experience in maintaining secure and efficient user management within an Active Directory domain.
 
-To continue the Active Directory series, explore the [Network File Shares and Permissions](https://github.com/vincentchachere/Network-File-Shares-and-Permissions) or [DNS Resolution](https://github.com/vincentchachere/DNS-Fundamentals) lab.
+To continue the Active Directory series, explore the [Network File Shares and Permissions](https://github.com/DavidClarkeIT/Network-File-Shares-and-Permissions) or [DNS Resolution](https://github.com/DavidClarkeIT/DNS-Fundamentals) lab.
 
 Thank you for following along with this project. Your time and effort in learning and implementing these concepts are greatly appreciated.
 
-☎️ For any questions or just to connect you can reach me at: www.linkedin.com/in/vincentchachere
+☎️ For any questions or just to connect you can reach me at: www.linkedin.com/in/davidclarkeit/
